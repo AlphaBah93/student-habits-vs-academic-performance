@@ -15,7 +15,7 @@ Identifier les facteurs liés à la performance académique à partir de donnée
 ## 📂 Contenu
 - `.pbix` : Fichier Power BI interactif.
 - `rapport/` : Rapport PDF synthétisant les insights.
-- `images/` : Graphiques utilisés.
+- `capt/` : Graphiques utilisés.
 - `dataset/` : Jeu de données original.
 - `notebooks/` : Analyse Python complémentaire (heatmap, corrélations).
 
